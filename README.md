@@ -2,7 +2,7 @@
 
 ## Getting started
   1. If you dont know your instruction set architecture use [droidinfo](https://play.google.com/store/apps/details?id=com.inkwired.droidinfo&hl=en_IN) app for it.
-  2. The download link will directly starts downloading(will not show ant webpage)
+  2. The download link will directly starts downloading(will not show any webpage)
 
   3. sometimes chrome will not open link. if that is the case open with other browser.  
   4. thats it
